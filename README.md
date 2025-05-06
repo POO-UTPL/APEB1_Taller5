@@ -1,6 +1,6 @@
 # Taller 5 - Estructuras estáticas/dinámicas _(arreglos de objetos)_
 
-## Diseño orientado a objetos aplicando estructuras de datos estáticas/dinámicas de objetos 
+## Diseño orientado a objetos _(DOO)_ aplicando estructuras de datos estáticas/dinámicas 
 
 * Leer detenidamente cada problemática propuesta.
 * Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
