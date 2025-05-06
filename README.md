@@ -1,4 +1,4 @@
-# Taller 5 (Laboratorio) - GRUPAL
+# Taller 5 - GRUPAL
 
 ## Creación de programas usando estructuras estáticas y dinámicas de objetos 
 
