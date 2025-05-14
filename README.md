@@ -5,13 +5,11 @@
 * Leer detenidamente cada problemática propuesta.
 * Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
 * Para cada diagrama/solución _(modelado de su solución)_, genere/agregue 2 archivos _(fuente e img: \*.dia y \*.png \*.jpeg, etc)_. No olvide titular a cada clase, con el nombre representativo del análisis/solución. Para el nombre de cada archivo use el formato: _Problema-NroProbl_NombClase_. Ejemplo **Problema-1_Trabajador**. Todos estos archivos agréguelos en el subDirectorio: **Modelos_UML**
-* En el subDirectorio **Solucion_Codigo** cree un único proyecto NetBeans - _Java Aplication_ (o con el IDE de su preferencia) y en él, agregue todas las clases necesarias para la solución de cada problema _(no use paquetes aun)_. Y para facilitar la revisión, utilice para la clase base el formato _Problema-NroProbl_NombClaseBase_, y para la clase de prueba/ejecutor use _Problema-NroProbl_NombClaseEjecutor_ (Ésta última es la clase de prueba que genera/instancia con objetos cada entidad/clase y verifica su funcionalidad). 
+* En el subDirectorio **Solucion_Codigo** cree un único proyecto NetBeans - _Java Aplication_ (o con el IDE de su preferencia) y en él, agregue todas las clases necesarias para la solución de cada problema _(no use paquetes aun)_. Y para facilitar la revisión, utilice para la clase base el formato _**Problema-NroProbl_NombClaseBase**_, y para la clase de prueba/ejecutor use _**Problema-NroProbl_NombClaseEjecutor**_ _(Ésta última es la clase de prueba que genera/instancia con objetos cada entidad/clase y verifica su funcionalidad)_. 
 * Respete la arquitectura **MVC**, es decir, no implemente entradas/salidas desde/hacia teclado-consola directamente en la clase base. Los datos de entrada y resultados deben ser ingresados/mostrados desde/hacia teclado-consola, en la clase de prueba/ejecutor.
 * Para retornar los datos del objeto, usar el método _**toString()**_, vía cadena con formato legible. 
-* Al diseñar su solución, usted tiene la potestad de elegir usar estructuras de datos estáticas y/o dinámicas. 
-
+* Al diseñar su solución, usted tiene la potestad de elegir usar estructuras de datos estáticas y/o dinámicas. Sin embargo, se recomienda usar en al menos 2 problema, las estructuras de datos estáticas, con el fin de reconocer las diferencias, ventajas de las estructuras dinámicas, las cuales es obligatorio implementarlas para este taller en el (los) problemas deseados. 
 ___
-
 
 ## Problema 1 - Sistema de ventas
 
