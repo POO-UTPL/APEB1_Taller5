@@ -8,7 +8,7 @@
 * En el subDirectorio **Solucion_Codigo** cree un único proyecto NetBeans - _Java Aplication_ (o con el IDE de su preferencia) y en él, agregue todas las clases necesarias para la solución de cada problema _(no use paquetes aun)_. Y para facilitar la revisión, utilice para la clase base el formato _**Problema-NroProbl_NombClaseBase**_, y para la clase de prueba/ejecutor use _**Problema-NroProbl_NombClaseEjecutor**_ _(Ésta última es la clase de prueba que genera/instancia con objetos cada entidad/clase y verifica su funcionalidad)_. 
 * Respete la arquitectura **MVC**, es decir, no implemente entradas/salidas desde/hacia teclado-consola directamente en la clase base. Los datos de entrada y resultados deben ser ingresados/mostrados desde/hacia teclado-consola, en la clase de prueba/ejecutor.
 * Para retornar los datos del objeto, usar el método _**toString()**_, vía cadena con formato legible. 
-* Al diseñar su solución, usted tiene la potestad de elegir usar estructuras de datos estáticas y/o dinámicas. Sin embargo, se recomienda usar en al menos 2 problema, las estructuras de datos estáticas, con el fin de reconocer las diferencias, ventajas de las estructuras dinámicas, las cuales es obligatorio implementarlas para este taller en el (los) problemas deseados. 
+* Al diseñar su solución, usted tiene la potestad de elegir usar estructuras de datos estáticas y/o dinámicas; sin embargo, se recomienda usar en al menos 2 problema, las estructuras de datos estáticas, con el fin de reconocer las diferencias/ventajas de las estructuras dinámicas, las cuales son obligatorias implementar para este taller en el _(los)_ problemas deseados. 
 ___
 
 ## Problema 1 - Sistema de ventas
