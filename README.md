@@ -54,7 +54,7 @@ Ahora, debe implementar los siguientes requisitos en su programa:
 > [!Note]
 > - Cree una clase de prueba/ejecutor _(quien contiene el método **main()**)_, quien prueba la funcionalidad de este escenario. 
 
-## PROBLEMA 3: Sistema para categorización de Departamentos en una Empresa
+## Problema 3: Sistema para categorización de Departamentos en una Empresa
 
 Una empresa desea categorizar sus tres departamentos en base al número de empleados y la producción generada por cada departamento. Se debe crear dos clases: "Empresa" y "Departamento".
 
@@ -69,7 +69,7 @@ La clase "Empresa" que tiene un nombre, ruc y dirección asignada, se encargará
 > [!Note]
 > - Puede agregar otros métodos o atributos según sea necesario. Su tarea es implementar las clases "Empresa" y "Departamento" en un programa que permita ingresar los datos de varios departamentos y determine su categoría (en la clase Departamento). El programa debe mostrar el resultado para cada departamento ingresado (toString).
 
-## PROBLEMA 4:  App de la Fiscalia
+## Problema 4:  App de la Fiscalia
 
 Desde la fiscalía general del Estado le contactan para diseña su App de gestión de información sobre casos de corrupción en el sistema judicial de Ecuador y las personas implicadas en estos casos, dados los siguientes lineamientos:
 
@@ -81,7 +81,7 @@ Desde la fiscalía general del Estado le contactan para diseña su App de gesti�
 
 Relacione las posibles clases con la asociación correcta, dado que un caso de corrupción puede tener múltiples personas implicadas. Este diseño permite gestionar de manera eficiente la información sobre los casos de corrupción y las personas involucradas en el sistema judicial de Ecuador. 
 
-## PROBLEMA 5: Sistema de gestión de conflitos
+## Problema 5: Sistema de gestión de conflitos
 
 La ONU _(Organización de Naciones Unidad)_ se contacta con usted para que desarrollo una App que les permita registrar y gestionar toda la información histórica y actual relacionada con los conflictos internacionales suscitados en el mundo contemporáneo dados los siguientes requerimientos: 
 
